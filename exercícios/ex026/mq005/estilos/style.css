@@ -38,6 +38,8 @@ menu {
     display: none;
 }
 
+
+
 menu > ul {
     list-style-type: none;
 }
@@ -58,16 +60,19 @@ menu > ul > li > a:hover {
 }
 
 main {
-    width: 90vw;
+    width: 60vw;
     background-color: white;
     margin: auto;
     padding: 10px;
     border-radius:10px;
+    
 
 }
 
 article > h2 {
     padding-bottom: 20px;
+    text-indent: 30px;
+
 }
 
 article > p {
